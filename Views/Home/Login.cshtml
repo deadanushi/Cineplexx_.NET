@@ -1,0 +1,28 @@
+﻿@{
+    Layout = null; 
+    ViewBag.Title = "Login";
+}
+<link rel="stylesheet" href="/css/Login.css" />
+
+<div class="login-container">
+    <h1>Login</h1>
+    <form method="post" asp-action="Login" asp-controller="Home" class="login-form">
+        <div class="input-group">
+            <label for="admin-username">Username</label>
+            <input type="text" id="admin-username" name="username" placeholder="Enter your username" required />
+        </div>
+        <div class="input-group">
+            <label for="admin-password">Password</label>
+            <input type="password" id="admin-password" name="password" placeholder="Enter your password" required />
+        </div>
+        @if (ViewBag.ErrorMessage != null)
+        {
+            <p class="error">@ViewBag.ErrorMessage</p>
+        }
+        <button type="submit" class="btn-admin">Login as Admin</button>
+    </form>
+
+    <form method="post" asp-action="UserAccess" asp-controller="Home" class="login-form">
+        <button type="submit" class="btn-user">Continue as User</button>
+    </form>
+</div>

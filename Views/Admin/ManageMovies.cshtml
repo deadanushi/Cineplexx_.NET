@@ -1,0 +1,45 @@
+﻿@model List<Movie>
+
+<h1>Manage Movies</h1>
+<a href="@Url.Action("AddEditMovie", "Admin")" class="btn btn-primary">Add New Movie</a>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Photo</th>
+            <th>Cinema</th>
+            <th>Price</th>
+            <th>Description</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null && Model.Any())
+        {
+            foreach (var movie in Model)
+            {
+                <tr>
+                    <td>@movie.Name</td>
+                    <td>@movie.PhotoUrl</td>
+                    <td>@movie.Cinema</td>
+                    <td>$@movie.Price</td>
+                    <td>@movie.Description</td>
+                    <td>
+                        <a href="@Url.Action("AddEditMovie", "Admin", new { name = movie.Name })" class="btn btn-warning btn-sm">Edit</a>
+                        <form method="post" action="@Url.Action("DeleteMovie", "Admin")" style="display:inline;">
+                            <input type="hidden" name="name" value="@movie.Name" />
+                            <button type="submit" class="btn btn-danger btn-sm">Delete</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="5" class="text-center">No movies available.</td>
+            </tr>
+        }
+    </tbody>
+</table>

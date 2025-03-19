@@ -1,0 +1,22 @@
+﻿@model List<cineplex.Models.Actor>
+
+<link rel="stylesheet" href="/css/Actors.css">
+
+<h1 class="actors-header">Actors Featuring</h1>
+
+@if (Model != null && Model.Any())
+{
+    <div class="actors-grid">
+        @foreach (var actor in Model)
+        {
+            <div class="actor-card">
+                <img src="@actor.PhotoUrl" alt="@actor.Name's photo" class="actor-image" />
+                <p class="actor-name">@actor.Name</p>
+            </div>
+        }
+    </div>
+}
+else
+{
+    <p class="no-actors">No actors to display.</p>
+}

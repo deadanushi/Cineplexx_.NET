@@ -1,0 +1,345 @@
+{
+  "Files": [
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\cineplex.bundle.scp.css",
+      "PackagePath": "staticwebassets\\cineplex.bundle.scp.css"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\Images\\Actors\\cris.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Actors\\cris.jpeg"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\Images\\Actors\\jlo.jpg",
+      "PackagePath": "staticwebassets\\Images\\Actors\\jlo.jpg"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\Images\\Actors\\robert.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Actors\\robert.jpeg"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\Images\\Actors\\scarlet.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Actors\\scarlet.jpeg"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\Images\\Movies\\Extc.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Movies\\Extc.jpeg"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\Images\\Movies\\QuietPlace.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Movies\\QuietPlace.jpeg"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\Images\\Movies\\backIa.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Movies\\backIa.jpeg"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\Images\\Movies\\gladi.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Movies\\gladi.jpeg"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\Images\\Movies\\theCurse.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Movies\\theCurse.jpeg"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\Images\\Movies\\theFall.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Movies\\theFall.jpeg"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\Images\\cineplexLogo.jpeg",
+      "PackagePath": "staticwebassets\\Images\\cineplexLogo.jpeg"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\Images\\qtu.jpg",
+      "PackagePath": "staticwebassets\\Images\\qtu.jpg"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\Images\\teg.jpeg",
+      "PackagePath": "staticwebassets\\Images\\teg.jpeg"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\css\\Actors.css",
+      "PackagePath": "staticwebassets\\css\\Actors.css"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\css\\Cinema.css",
+      "PackagePath": "staticwebassets\\css\\Cinema.css"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\css\\CinemaAdmin.css",
+      "PackagePath": "staticwebassets\\css\\CinemaAdmin.css"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\css\\Dashboard.css",
+      "PackagePath": "staticwebassets\\css\\Dashboard.css"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\css\\Details.css",
+      "PackagePath": "staticwebassets\\css\\Details.css"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\css\\Home.css",
+      "PackagePath": "staticwebassets\\css\\Home.css"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\css\\Login.css",
+      "PackagePath": "staticwebassets\\css\\Login.css"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "c:\\Users\\user\\source\\repos\\cineplex\\cineplex\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.cineplex.props",
+      "PackagePath": "build\\cineplex.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.cineplex.props",
+      "PackagePath": "buildMultiTargeting\\cineplex.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.cineplex.props",
+      "PackagePath": "buildTransitive\\cineplex.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.cineplex.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

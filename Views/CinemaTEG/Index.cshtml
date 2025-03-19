@@ -1,0 +1,23 @@
+﻿@model List<cineplex.Models.Movie>
+
+<link rel="stylesheet" href="/css/Cinema.css">
+
+<h1 class="cinema-header">Movies in Cineplexx TEG</h1>
+<div class="movie-cards">
+        @foreach (var movie in Model)
+        {
+            <div class="movie-card">
+                <img src="@movie.PhotoUrl" alt="@movie.Name" class="movie-image">
+                <div class="movie-info">
+                    <h2 class="movie-title">@movie.Name</h2>
+                    <p class="movie-price"><strong>Price:</strong> $@movie.Price</p>
+                    <p class="movie-cinema"><strong>Cinema:</strong> @movie.Cinema</p>
+                    <p class="movie-description">@movie.Description.Substring(0, Math.Min(50, movie.Description.Length))...</p>
+                </div>
+                <form asp-action="Details" method="get" class="movie-form">
+                    <input type="hidden" name="name" value="@movie.Name" />
+                    <button type="submit" class="details-button">More Info</button>
+                </form>
+            </div>
+        }
+</div>

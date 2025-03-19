@@ -1,0 +1,47 @@
+﻿@model IEnumerable<cineplex.Models.Actor>
+
+@{
+    ViewData["Title"] = "Manage Actors";
+}
+
+<div class="container mt-5">
+    <h1 class="text-center">Manage Actors</h1>
+    <a href="/Admin/AddEditActor" class="btn btn-primary mb-3">Add New Actor</a>
+
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Photo</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model != null && Model.Any())
+            {
+                foreach (var actor in Model)
+                {
+                    <tr>
+                        <td>@actor.Name</td>
+                        <td>
+                            <img src="@actor.PhotoUrl" alt="@actor.Name" style="max-width: 100px;" />
+                        </td>
+                        <td>
+                            <a href="/Admin/AddEditActor?name=@actor.Name" class="btn btn-warning btn-sm">Edit</a>
+                            <form method="post" action="/Admin/DeleteActor" style="display:inline;">
+                                <input type="hidden" name="name" value="@actor.Name" />
+                                <button type="submit" class="btn btn-danger btn-sm">Delete</button>
+                            </form>
+                        </td>
+                    </tr>
+                }
+            }
+            else
+            {
+                <tr>
+                    <td colspan="3" class="text-center">No actors available.</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

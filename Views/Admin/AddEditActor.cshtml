@@ -1,0 +1,20 @@
+﻿@model cineplex.Models.Actor
+
+@{
+    ViewData["Title"] = "AddEdit Actor";
+}
+
+<div class="container mt-5">
+    <h1 class="text-center">@ViewData["Title"]</h1>
+    <form method="post" class="mt-4">
+        <div class="mb-3">
+            <label for="Name" class="form-label">Actor Name</label>
+            <input type="text" id="Name" name="Name" value="@Model.Name" class="form-control" required />
+        </div>
+        <div class="mb-3">
+            <label for="PhotoUrl" class="form-label">Photo URL</label>
+            <input type="text" id="PhotoUrl" name="PhotoUrl" value="@Model.PhotoUrl" class="form-control" required />
+        </div>
+        <button type="submit" class="btn btn-success">Save</button>
+    </form>
+</div>

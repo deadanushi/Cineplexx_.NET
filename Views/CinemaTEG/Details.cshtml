@@ -1,0 +1,21 @@
+﻿@model cineplex.Models.Movie
+
+<link rel="stylesheet" href="/css/Details.css">
+
+<h1 class="movie-name">@Model.Name</h1>
+
+<img src="@Model.PhotoUrl" alt="@Model.Name" class="movie-image">
+<div class="movie-info">
+    <p><strong>Price:</strong> $@Model.Price</p>
+    <p><strong>Description:</strong> @Model.Description</p>
+</div>
+
+<div class="actors-row">
+    @foreach (var actor in Model.Actors)
+    {
+        <div class="actor-card">
+            <img src="@actor.PhotoUrl" alt="@actor.Name" class="actor-image">
+            <p class="actor-name">@actor.Name</p>
+        </div>
+    }
+</div>

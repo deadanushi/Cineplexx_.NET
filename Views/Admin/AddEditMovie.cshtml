@@ -1,0 +1,29 @@
+﻿@model cineplex.Models.Movie
+
+@{
+    ViewData["Title"] = string.IsNullOrEmpty(Model.Name) ? "Add Movie" : "Edit Movie";
+}
+
+<h1 class="text-center">@ViewData["Title"]</h1>
+
+<div class="container mt-5">
+    <form method="post">
+        <div class="mb-3">
+            <label for="Name" class="form-label">Movie Name</label>
+            <input type="text" id="Name" name="Name" value="@Model.Name" class="form-control" required />
+        </div>
+        <div class="mb-3">
+            <label for="Price" class="form-label">Price</label>
+            <input type="number" id="Price" name="Price" value="@Model.Price" class="form-control" required />
+        </div>
+        <div class="mb-3">
+            <label for="Cinema" class="form-label">Cinema</label>
+            <input type="text" id="Cinema" name="Cinema" value="@Model.Cinema" class="form-control" required />
+        </div>
+        <div class="mb-3">
+            <label for="Description" class="form-label">Description</label>
+            <textarea id="Description" name="Description" class="form-control">@Model.Description</textarea>
+        </div>
+        <button type="submit" class="btn btn-success">Save</button>
+    </form>
+</div>
