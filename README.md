@@ -42,22 +42,22 @@ Cineplex is an ASP.NET Core MVC web application for managing and displaying movi
 ## Screenshots
 
 ### Login Page
-![Login Page](images/a.jpg)
+![Login Page](./images/a.PNG)
 
 ### Home Page
-![Home Page](images/b.jpg)
+![Home Page](./images/b.PNG)
 
 ### Cinema QTU
-![Cinema QTU](images/c.jpg)
+![Cinema QTU](./images/c.PNG)
 
 ### Movie Details
-![Movie Details](images/d.jpg)
+![Movie Details](./images/d.PNG)
 
 ### Admin Create and Edit Page
-![Admin Create Page](images/e.jpg)
+![Admin Create Page](./images/e.PNG)
 
 ### Admin Manage Page
-![Admin Manage Page](images/g.jpg)
+![Admin Manage Page](./images/g.PNG)
 
 ## Technologies Used
 - C# .NET Core MVC
